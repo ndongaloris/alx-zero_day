@@ -1,0 +1,10 @@
+git add .
+git commit -m 'Any Messages'
+git push
+git push origin update_script
+git branch
+git checkout master
+git checkout -b  update_script #to create a branch
+git clone <repo>
+rm -r js
+git pull
